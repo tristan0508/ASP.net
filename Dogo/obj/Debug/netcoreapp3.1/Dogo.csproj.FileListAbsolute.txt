@@ -129,3 +129,8 @@ C:\Users\Tristan\workspace\asp-net\Dogo\Dogo\bin\Debug\netcoreapp3.1\tr\Microsof
 C:\Users\Tristan\workspace\asp-net\Dogo\Dogo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Tristan\workspace\asp-net\Dogo\Dogo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Tristan\workspace\asp-net\Dogo\Dogo\obj\Debug\netcoreapp3.1\Razor\Views\Walkers\Details.cshtml.g.cs
+C:\Users\Tristan\workspace\asp-net\Dogo\Dogo\obj\Debug\netcoreapp3.1\Razor\Views\Owners\Create.cshtml.g.cs
+C:\Users\Tristan\workspace\asp-net\Dogo\Dogo\obj\Debug\netcoreapp3.1\Razor\Views\Owners\Delete.cshtml.g.cs
+C:\Users\Tristan\workspace\asp-net\Dogo\Dogo\obj\Debug\netcoreapp3.1\Razor\Views\Owners\Details.cshtml.g.cs
+C:\Users\Tristan\workspace\asp-net\Dogo\Dogo\obj\Debug\netcoreapp3.1\Razor\Views\Owners\Edit.cshtml.g.cs
+C:\Users\Tristan\workspace\asp-net\Dogo\Dogo\obj\Debug\netcoreapp3.1\Razor\Views\Owners\Index.cshtml.g.cs
