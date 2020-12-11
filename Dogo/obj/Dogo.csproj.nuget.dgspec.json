@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tristan\\source\\repos\\Dogo\\Dogo\\Dogo.csproj": {}
+    "C:\\Users\\Tristan\\workspace\\asp-net\\Dogo\\Dogo\\Dogo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tristan\\source\\repos\\Dogo\\Dogo\\Dogo.csproj": {
+    "C:\\Users\\Tristan\\workspace\\asp-net\\Dogo\\Dogo\\Dogo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tristan\\source\\repos\\Dogo\\Dogo\\Dogo.csproj",
+        "projectUniqueName": "C:\\Users\\Tristan\\workspace\\asp-net\\Dogo\\Dogo\\Dogo.csproj",
         "projectName": "Dogo",
-        "projectPath": "C:\\Users\\Tristan\\source\\repos\\Dogo\\Dogo\\Dogo.csproj",
+        "projectPath": "C:\\Users\\Tristan\\workspace\\asp-net\\Dogo\\Dogo\\Dogo.csproj",
         "packagesPath": "C:\\Users\\Tristan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tristan\\source\\repos\\Dogo\\Dogo\\obj\\",
+        "outputPath": "C:\\Users\\Tristan\\workspace\\asp-net\\Dogo\\Dogo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tristan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,6 +43,10 @@
             "Microsoft.Data.SqlClient": {
               "target": "Package",
               "version": "[2.1.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
             }
           },
           "imports": [
@@ -63,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

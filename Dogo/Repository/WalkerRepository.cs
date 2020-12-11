@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.Extensions.Configuration;
 
-namespace DogGo.Repositories
+namespace Dogo.Repositories
 {
     public class WalkerRepository : IWalkerRepository
     {
