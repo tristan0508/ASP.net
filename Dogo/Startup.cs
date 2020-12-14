@@ -1,4 +1,5 @@
 using Doggo.Repositories;
+using DogGo.Repositories;
 using Dogo.Repositories;
 using Dogo.Repository;
 using Microsoft.AspNetCore.Builder;
@@ -28,6 +29,7 @@ namespace Dogo
         {
             services.AddTransient<IWalkerRepository, WalkerRepository>();
             services.AddTransient<IOwnerRepository, OwnerRepository>();
+            services.AddTransient<IDogRepository, DogRepository>();
             services.AddControllersWithViews();
         }
 
