@@ -19,5 +19,17 @@ namespace Dogo.Repositories.Utils
                 return null;
             }
         }
+
+        public static object GetNullableValue(object value)
+        {
+            if (value != null)
+            {
+                return value;
+            }
+            else
+            {
+                return DBNull.Value;
+            }
+        }
     }
 }
