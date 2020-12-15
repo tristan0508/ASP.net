@@ -137,3 +137,8 @@ C:\Users\Tristan\workspace\asp-net\Dogo\Dogo\obj\Debug\netcoreapp3.1\Razor\Views
 C:\Users\Tristan\workspace\asp-net\Dogo\Dogo\obj\Debug\netcoreapp3.1\Razor\Views\Dog\Index.cshtml.g.cs
 C:\Users\Tristan\workspace\asp-net\Dogo\Dogo\obj\Debug\netcoreapp3.1\Razor\Views\Dog\Details.cshtml.g.cs
 C:\Users\Tristan\workspace\asp-net\Dogo\Dogo\obj\Debug\netcoreapp3.1\Razor\Views\Dog\Create.cshtml.g.cs
+C:\Users\Tristan\workspace\asp-net\Dogo\Dogo\obj\Debug\netcoreapp3.1\Razor\Views\Walkers\Create.cshtml.g.cs
+C:\Users\Tristan\workspace\asp-net\Dogo\Dogo\obj\Debug\netcoreapp3.1\Razor\Views\Walkers\Edit.cshtml.g.cs
+C:\Users\Tristan\workspace\asp-net\Dogo\Dogo\obj\Debug\netcoreapp3.1\Razor\Views\Walkers\Delete.cshtml.g.cs
+C:\Users\Tristan\workspace\asp-net\Dogo\Dogo\obj\Debug\netcoreapp3.1\Razor\Views\Dog\Edit.cshtml.g.cs
+C:\Users\Tristan\workspace\asp-net\Dogo\Dogo\obj\Debug\netcoreapp3.1\Razor\Views\Dog\Delete.cshtml.g.cs

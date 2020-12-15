@@ -8,11 +8,11 @@ namespace Dogo.Repository
 {
     public interface IOwnerRepository
     {
-        Owner GetById(int id);
-        List<Owner> GetOwners();
-        void UpdateOwner(Owner owner);
-        void DeleteOwner(int ownerId);
-        void AddOwner(Owner owner);
+        List<Owner> GetAllOwners();
+        Owner GetOwnerById(int id);
         Owner GetOwnerByEmail(string email);
+        void AddOwner(Owner owner);
+        void UpdateOwner(Owner owner);
+        void DeleteOwner(int id);
     }
 }
