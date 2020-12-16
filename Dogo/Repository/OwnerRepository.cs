@@ -215,7 +215,7 @@ namespace Dogo.Repositories
                 {
                     cmd.CommandText = @"
                             DELETE FROM Owner
-                            WHERE Id = @id
+                            WHERE Id= @id
                         ";
 
                     cmd.Parameters.AddWithValue("@id", ownerId);
