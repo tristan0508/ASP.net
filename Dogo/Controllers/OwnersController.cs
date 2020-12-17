@@ -155,6 +155,12 @@ namespace Dogo.Controllers
             }
         }
 
+        private int GetCurrentUserId()
+        {
+            string id = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            return int.Parse(id);
+        }
+
         public ActionResult Login()
         {
             return View();
